@@ -1,5 +1,7 @@
 package pl.sdaacademy.java.basic.exercises.day1;
 
+//Napisz program, który wyświetli na ekranie wyraz SDA, nie używając ani jednego znaku " lub '
+
 class Task1 {
 
     public static void main(String[] args) {
