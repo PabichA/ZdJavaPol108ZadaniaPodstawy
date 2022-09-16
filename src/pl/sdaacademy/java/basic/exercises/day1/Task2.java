@@ -10,7 +10,7 @@ public class Task2 {
         float circumference = calculateCircumferenceOfACircle(radius);
         float area = calculateAreaOfACircle(radius);
         System.out.println("Circumference Of A Circle: " + circumference);
-        System.out.println("Area Of A Circle: ," + area);
+        System.out.println("Area Of A Circle: " + area);
     }
 
     public static float getDiameterFromUser() {
